@@ -7,3 +7,4 @@ creating a new branch is lalala simple.
 1
 2
 test merge fast forward
+test merge without ff
